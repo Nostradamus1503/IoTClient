@@ -1,2 +1,11 @@
 # IoTClient
-Node Js client for raspberry
+Dispositivo IoT - Sensor de temp y humedad
+
+##################################################################
+#                              temp                              #
+##################################################################
+
+
+#Endpoint Alta Temperatura
+POST /Sensores/
+

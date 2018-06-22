@@ -1,0 +1,23 @@
+{
+  "name": "iotclient",
+  "version": "1.0.1",
+  "description": "IoT Application ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nostradamus1503/IoTClient.git"
+  },
+  "author": "Martin Averame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nostradamus1503/IoTClient/issues"
+  },
+  "homepage": "https://github.com/Nostradamus1503/IoTClient#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0-beta4"
+  }
+}
